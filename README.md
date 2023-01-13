@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yoelvis Oliveros
 - 👀 I’m a really pasionated software developer
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Go
 
 <!---
 yoliveros/yoliveros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
