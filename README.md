@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yoelvis Oliveros
 - 👀 I’m a passionate software developer
-- 🌱 Learning Zig
+- 🌱 Zig and Go enthusiast
 - 💻 Neovim Enjoyer
 
 <!---
