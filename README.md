@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yoelvis Oliveros
 - 👀 I’m a passionate software developer
-- 🌱 C enthusiast
+- 🌱 JavaScript, C#, C
 - 💻 Neovim Enjoyer
 
 <!---
