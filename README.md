@@ -4,7 +4,7 @@
 - 💻 Neovim Enjoyer
 - 🐧 Arch BTW
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoliveros&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoliveros)
 
 <!---
 yoliveros/yoliveros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
