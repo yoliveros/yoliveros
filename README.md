@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yoel
-- 👀 I’m a passionate software developer
+- 👀 I’m a passionate software developer and FOSS enthusiastic
 - 🌱 C, C#, JavaScript
 - 💻 Neovim Enjoyer
 - 🐧 Arch BTW
