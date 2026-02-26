@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yoel
 - 👀 I’m a passionate software developer
-- 🌱 JavaScript, C#, C
+- 🌱 C, C#, JavaScript
 - 💻 Neovim Enjoyer
 - 🐧 Arch BTW
 
