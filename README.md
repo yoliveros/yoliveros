@@ -5,7 +5,7 @@
 - 🐧 Arch BTW
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoliveros&layout=donut&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoliveros&layout=donut&theme=radical&hidden=c++)
 
 <!---
 yoliveros/yoliveros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
